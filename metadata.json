@@ -1,0 +1,6 @@
+{
+  "name": "CUSTOM PHONE",
+  "description": "Build the phone you actually want. Custom smartphone builder, SAJASE AI recommendations, live BOM price estimation, compatibility verification, and manufacturing quotation platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
